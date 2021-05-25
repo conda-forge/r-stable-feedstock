@@ -3,7 +3,7 @@ About r-stable
 
 Home: http://www.commanster.eu/rcode.html
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stable-feedstock/blob/master/LICENSE.txt)
 
