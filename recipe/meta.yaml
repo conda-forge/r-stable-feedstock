@@ -45,7 +45,7 @@ test:
 
 about:
   home: http://www.commanster.eu/rcode.html
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Density, distribution, quantile and hazard functions of a stable variate; generalized
     regression models for the parameters of a stable distribution. See the README for
     how to make equivalent calls to those of 'stabledist'. See github for Journal article.
